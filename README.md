@@ -11,7 +11,7 @@ Exemple d'une équipe Warbot
 
 ## Utilisation
 
-Modifier le fichier config.yml en fonction du nouveau de votre équipe. (et de votre package)
+Modifiez le fichier config.yml en fonction du nouveau nom de votre équipe. (et de votre package)
 
 ### Console
 
