@@ -1,6 +1,14 @@
 # Warbot-Team-example
 Exemple d'une équipe Warbot
 
+### Changelog
+
+- Chargement d'équipes scriptées totalement fonctionnel (en dossier)
+-- Python (par fonctions)
+-- Javascript (avec classes)
+
+- Chargement d'équipes Java fonctionnel (En jar, uniquement sur Eclipse)
+
 ## Utilisation
 
 Modifier le fichier config.yml en fonction du nouveau de votre équipe. (et de votre package)
